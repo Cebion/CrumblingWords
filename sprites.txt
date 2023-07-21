@@ -1,0 +1,17 @@
+alyster/frame.png
+alyster/normal.png
+alyster/waiting.png
+alyster/annoyed.png
+alyster/frowns.png
+alyster/laughs.png
+alyster/shock.png
+alyster/taunts.png
+alyster/BGs/1.png
+alyster/BGs/2.png
+alyster/BGs/3.png
+alyster/BGs/4.png
+sprites/logo.png
+sprites/intro_witchhouse.png
+sprites/Witch.png
+sprites/Intro_Ruin.png
+sprites/introLogo.png

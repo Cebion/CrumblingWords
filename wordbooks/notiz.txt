@@ -1,0 +1,3 @@
+common -> easy?
+smallListTopHeavy -> normal
+heavyList -> hard

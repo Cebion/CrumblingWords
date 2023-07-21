@@ -1,0 +1,73 @@
+____________________________________________________________
+
+The code is licensed under the GPL3, see the text file shipped in this folder for further info.
+
+The wordbooks are done by crawling wictionary and various wordbooks. Licensed as CC4-Share alike.
+See https://creativecommons.org/licenses/by-sa/4.0/
+
+Sounds made with LLMS. Licensed under CC4 share alike.
+Most sprites were done on basis of existing public domain or CC-BY-SA Images.
+They can be treated as CC4-BY-SA.
+
+SDL and the Libraries are licensed under the ZLIB-License
+
+Jade, Public Domain
+https://commons.wikimedia.org/wiki/File:Jade_001.jpg
+-> Mage-Background
+
+16 Samples of Wood, Public Domain
+https://commons.wikimedia.org/wiki/File:16_wood_samples.jpg
+Used for the Tiles and the UI.
+
+Crowley-Images
+https://commons.wikimedia.org/wiki/File:Aleister_Crowley_-_1929.jpg
+https://commons.wikimedia.org/wiki/File:Aleister_Crowley,_thinker.jpg
+https://commons.wikimedia.org/wiki/File:Aleister_Crowley,_wickedest_man_in_the_world.jpg
+
+Actress Pauline Frederick - "Potiphar's wife" from the play Joseph and His Brethren, Public Domain
+https://upload.wikimedia.org/wikipedia/commons/a/a2/Paulinefrederick_5_retouched.jpg
+->Intro-Witch
+
+Damsay Ruin inside, CC2 share alike
+https://commons.wikimedia.org/wiki/File:Damsay_Ruin_inside_-_geograph.org.uk_-_2384671.jpg
+-> Inside, Intro
+
+Abandoned Witch House, CC4 share alike
+https://commons.wikimedia.org/wiki/File:Abandoned_witch_house.jpg
+-> Outside, Intro
+
+Wijsvinger, CC3 Unported
+https://commons.wikimedia.org/wiki/File:Wijsvinger.jpg
+-> For the Cursor
+
+Tree of Life, CC4-Share alike
+https://commons.wikimedia.org/wiki/File:Tree_of_life.jpg
+-> For the Main Menu
+
+Mandelbrot-Series, CC3 Unported
+https://commons.wikimedia.org/wiki/Mandelbrot_set
+https://commons.wikimedia.org/wiki/File:Mandel_zoom_08_satellite_antenna.jpg
+-> Background Images
+
+Surprise Major, CC3 Unported
+https://commons.wikimedia.org/wiki/File:Surprise_major.jpg
+-> As base for Shocked
+
+Albrecht Behmlel laughing, CC3 Unported
+https://commons.wikimedia.org/wiki/File:Albrecht_Behmel_16.jpg
+-> As base for "Laughs.png"
+
+Laughing Nyahsa GalawebDesign, CC3 Unported
+https://commons.wikimedia.org/wiki/File:Laughing_Nyahsa_GalawebDesign.jpg
+-> As base for "Taunts.png"
+
+Picture of Alessio Cocchi, CC4 Share alike
+https://commons.wikimedia.org/wiki/File:Alessio_Cocchi.jpg
+-> As base for "frowns.png"
+
+Fonts used, both OFL
+https://www.1001fonts.com/bebas-neue-font.html -> For the images
+pathway-gothic-one -> for menus, see folder
+
+Logo done with Bitmgothic by Nomi. No free license, but the resulting asset is.
+https://www.1001fonts.com/bitmgothic-font.html

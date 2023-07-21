@@ -1,0 +1,7 @@
+music/introPart1.ogg
+music/introPart2.ogg
+music/witchcraft.ogg
+music/Witchcraft4.ogg
+music/witchcraft5.ogg
+music/witchcraft2.ogg
+music/witchcraft3.ogg
